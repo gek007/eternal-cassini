@@ -1,3 +1,5 @@
+### IMPORTANT !!! Read carefully !!! 
+
 # RSS Reader - Setup and Usage Guide
 
 A modern RSS feed reader that aggregates your favorite feeds in a beautiful card-based interface.
